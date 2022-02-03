@@ -33,6 +33,10 @@
   },
   "name": "ft-search",
   "author": "rushi7997",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/rushi7997/ft-search.git"
+  },
   "module": "dist/ft-search.esm.js",
   "size-limit": [
     {
